@@ -1,5 +1,5 @@
 const Handlebars = require('handlebars');
-const EmailTemplate = require('../models/EmailTemplate');
+const EmailTemplate = require('../models/emailTemplate');
 const { baseLayout } = require('../utils/constants');
 
 class EmailService {
