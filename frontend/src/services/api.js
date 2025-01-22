@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://emailbuilderback.onrender.com';
+const API_BASE_URL = 'https://emailbuilderback.onrender.com/api/getemailLayout';
 
 export const emailService = {
   getEmailLayout: async () => {
